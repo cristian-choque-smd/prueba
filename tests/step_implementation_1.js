@@ -32,4 +32,5 @@ step("Delete patient", async function() {
     await click("Eliminar");
     //await click("Eliminar");
     //goto("url",{timeout:60000})
+    // esto es un cambio
 });
