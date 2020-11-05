@@ -4,7 +4,7 @@ const assert = require("assert");
 
 
 step("Page title is <pageTitle>", async (pageTitle) => {
-    assert.equal(await title(), pagelitle);
+    assert.equal(await title(), pageTitle);
 });
 
 

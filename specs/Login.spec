@@ -14,4 +14,4 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 
 * Login with username as "cristian.ramiro.chl@gmail.com" and password as "ch3ng3m3"
 * Profile name is "Cristian Choque"
-* Page title is "shareMeData"
+* Page title is "shareMEData"
