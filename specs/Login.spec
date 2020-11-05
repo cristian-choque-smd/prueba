@@ -1,14 +1,14 @@
-# Create Patient Sharemedata
+
+# Login Specification
 
 This is an executable specification file. This file follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
 
 
-## Create sharemedata account
+## Login to the aplication
 
 * Open page
 * Login with patient account
-* PopUp add patient
-* Create new patient
-* Exit from account
+* Search by patient
+* Delete patient
 
